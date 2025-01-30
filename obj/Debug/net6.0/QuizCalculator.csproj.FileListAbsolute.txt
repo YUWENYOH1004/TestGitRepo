@@ -1,0 +1,15 @@
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.csproj.AssemblyReference.cache
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.AssemblyInfoInputs.cache
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.AssemblyInfo.cs
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.csproj.CoreCompileInputs.cache
+/Users/annie/Projects/QuizCalculator/QuizCalculator/bin/Debug/net6.0/QuizCalculator
+/Users/annie/Projects/QuizCalculator/QuizCalculator/bin/Debug/net6.0/QuizCalculator.deps.json
+/Users/annie/Projects/QuizCalculator/QuizCalculator/bin/Debug/net6.0/QuizCalculator.runtimeconfig.json
+/Users/annie/Projects/QuizCalculator/QuizCalculator/bin/Debug/net6.0/QuizCalculator.dll
+/Users/annie/Projects/QuizCalculator/QuizCalculator/bin/Debug/net6.0/QuizCalculator.pdb
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.dll
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/refint/QuizCalculator.dll
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.pdb
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/QuizCalculator.genruntimeconfig.cache
+/Users/annie/Projects/QuizCalculator/QuizCalculator/obj/Debug/net6.0/ref/QuizCalculator.dll
