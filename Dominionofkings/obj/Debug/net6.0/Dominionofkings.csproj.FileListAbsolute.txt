@@ -1,0 +1,15 @@
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/bin/Debug/net6.0/Dominionofkings
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/bin/Debug/net6.0/Dominionofkings.deps.json
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/bin/Debug/net6.0/Dominionofkings.runtimeconfig.json
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/bin/Debug/net6.0/Dominionofkings.dll
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/bin/Debug/net6.0/Dominionofkings.pdb
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.csproj.AssemblyReference.cache
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.AssemblyInfoInputs.cache
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.AssemblyInfo.cs
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.csproj.CoreCompileInputs.cache
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.dll
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/refint/Dominionofkings.dll
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.pdb
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/Dominionofkings.genruntimeconfig.cache
+/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/obj/Debug/net6.0/ref/Dominionofkings.dll

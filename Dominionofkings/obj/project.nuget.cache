@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw1hKRIdE7gSSryOnAJe5XkY/BTPx8Z49df+F2FXnSfwwI6ij114D3IxUAnMvTFbIUEOw+4+1WkJ+Uxd03XslQ==",
+  "success": true,
+  "projectFilePath": "/Users/annie/Projects/FirstProject/Dominionofkings/Dominionofkings/Dominionofkings.csproj",
+  "expectedPackageFiles": [
+    "/Users/annie/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/bin/Debug/net6.0/DefendingConsolas
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/bin/Debug/net6.0/DefendingConsolas.deps.json
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/bin/Debug/net6.0/DefendingConsolas.runtimeconfig.json
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/bin/Debug/net6.0/DefendingConsolas.dll
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/bin/Debug/net6.0/DefendingConsolas.pdb
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.csproj.AssemblyReference.cache
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.AssemblyInfoInputs.cache
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.AssemblyInfo.cs
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.csproj.CoreCompileInputs.cache
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.dll
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/refint/DefendingConsolas.dll
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.pdb
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/DefendingConsolas.genruntimeconfig.cache
+/Users/annie/Projects/DefendingConsolas/DefendingConsolas/obj/Debug/net6.0/ref/DefendingConsolas.dll

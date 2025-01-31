@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4AbJk0I+WPc/8LaMikDDIFnoKgzhzTkjkisIqWh9G1gsDNZ7J4I3fzOdvat5K6ntac7JRSKDxrlfpmvi7S+16g==",
+  "success": true,
+  "projectFilePath": "/Users/annie/Projects/FirstProject/FoursISTERS/FoursISTERS/FoursISTERS.csproj",
+  "expectedPackageFiles": [
+    "/Users/annie/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

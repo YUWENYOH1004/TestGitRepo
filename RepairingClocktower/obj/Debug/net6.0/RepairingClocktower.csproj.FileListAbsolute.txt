@@ -1,0 +1,15 @@
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/bin/Debug/net6.0/RepairingClocktower
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/bin/Debug/net6.0/RepairingClocktower.deps.json
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/bin/Debug/net6.0/RepairingClocktower.runtimeconfig.json
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/bin/Debug/net6.0/RepairingClocktower.dll
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/bin/Debug/net6.0/RepairingClocktower.pdb
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.csproj.AssemblyReference.cache
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.AssemblyInfoInputs.cache
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.AssemblyInfo.cs
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.csproj.CoreCompileInputs.cache
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.dll
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/refint/RepairingClocktower.dll
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.pdb
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/RepairingClocktower.genruntimeconfig.cache
+/Users/annie/Projects/RepairingClocktower/RepairingClocktower/obj/Debug/net6.0/ref/RepairingClocktower.dll
