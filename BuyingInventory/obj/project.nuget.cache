@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qu24s4AC2DFcPm8lJicrzKt00Eh9xTZvbAW9Dw8+mHvbOkddMmOMW4k+OatNKdfinIiM0SVUi+2rPVkLIJJ6Iw==",
+  "success": true,
+  "projectFilePath": "/Users/annie/Projects/BuyingInventory/BuyingInventory/BuyingInventory.csproj",
+  "expectedPackageFiles": [
+    "/Users/annie/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/annie/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

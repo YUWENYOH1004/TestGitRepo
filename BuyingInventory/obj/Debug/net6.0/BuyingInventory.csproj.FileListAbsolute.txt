@@ -1,0 +1,15 @@
+/Users/annie/Projects/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory
+/Users/annie/Projects/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.deps.json
+/Users/annie/Projects/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.runtimeconfig.json
+/Users/annie/Projects/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.dll
+/Users/annie/Projects/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.pdb
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.csproj.AssemblyReference.cache
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.AssemblyInfoInputs.cache
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.AssemblyInfo.cs
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.csproj.CoreCompileInputs.cache
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.dll
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/refint/BuyingInventory.dll
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.pdb
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.genruntimeconfig.cache
+/Users/annie/Projects/BuyingInventory/BuyingInventory/obj/Debug/net6.0/ref/BuyingInventory.dll
